@@ -1,0 +1,66 @@
+body{
+font-family: 'lucida grande', tahoma, verdana, arian, sans-serif;
+background-color:#58D925;
+}
+
+
+
+#container{
+width: 1080px;
+margin:0 auto;
+padding:1px;
+background-color:#000;
+}
+
+#navigation{
+height: 60px;
+border: 3px solid #e3e3e3;
+margin-top:5px;
+background-color:#FFF8DC;
+}
+
+ul#navmenu{
+list-style-type:none;
+font-size:12px;
+}
+
+ul#navmenu li{
+width:200px;
+text-align:center;
+float:left;
+margin-right:4px;
+}
+
+ul#navmenu a{
+text-decoration:none;
+display: block;
+width:180px;
+hegight:25px;
+background-color:#fff;
+border: 1px solid #ccc;
+border-radius:5px;
+
+}
+
+#banner{
+height:165px;
+background-image:url(../images/common.jpg);
+background-size:cover;
+}
+
+#content_area{
+float:left;
+width:750px;
+margin:20px 0 20px 0;
+padding:10px;
+border: 3px solid #e3e3e3;
+color:white;
+}
+<style type="text/css">
+<!--
+A:link { COLOR: black; TEXT-DECORATION: none; font-weight: normal }
+A:visited { COLOR: black; TEXT-DECORATION: none; font-weight: normal }
+A:active { COLOR: black; TEXT-DECORATION: none }
+A:hover { COLOR: blue; TEXT-DECORATION: none; font-weight: none }
+-->
+</style>
